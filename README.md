@@ -220,6 +220,17 @@ Future improvements could include:
 - Interactive dashboards for visualization
 
 ---
+## Key Skills Demonstrated
+
+- Panel data analysis
+- Econometric modeling (OLS and Fixed Effects)
+- Data cleaning and preprocessing
+- Multi-source data integration
+- Statistical analysis and interpretation
+- Exploratory data analysis
+- Reproducible data science workflows
+  
+---
 
 ## Author
 
