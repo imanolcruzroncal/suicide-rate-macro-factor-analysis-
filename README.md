@@ -139,6 +139,36 @@ Final models incorporate structural indicators such as:
 Clustered standard errors were used to improve statistical robustness.
 
 ---
+## Results
+
+## Example of the Dataset
+
+The final dataset integrates macroeconomic, social, and health indicators in a country-year panel structure.
+
+![Dataset Example](images/uper_df_sample-2.png)
+
+
+## OLS vs Fixed Effects Model Comparison
+
+The following figure compares coefficients between a simple OLS regression and a panel fixed effects model controlling for country and year effects.
+
+![OLS vs Fixed Effects](images/model_comparison_coefficients.png)
+
+
+## Effect of Adding Macroeconomic Variables
+
+This figure shows how the estimated coefficients change after incorporating macroeconomic variables into the model.
+
+![Block Comparison](images/block1_vs_block2.png)
+
+
+## Structural Model Comparison
+
+Comparison between the inequality model (Model 3A) and the education model (Model 3B).
+
+![Model Comparison](images/model3A_vs_model3B.png)
+
+---
 
 ## Key Findings
 
